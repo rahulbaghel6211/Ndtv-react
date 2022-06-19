@@ -38,6 +38,7 @@
 .firstnav{
     background-color: #3d3d3d;
     gap:4rem;
+   
 }
 .btn{
     background-color: transparent;
@@ -145,4 +146,7 @@
 }
 .ent{
     margin-left: 100px;
+}
+.grp{
+    margin-left: 200px;
 }

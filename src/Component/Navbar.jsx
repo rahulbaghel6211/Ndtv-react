@@ -14,6 +14,7 @@ const Navbar=()=>{
     return(
         <div>
             <div className='firstnav'>
+                <div className='grp'>
                 <button className='btn'>NDTV</button>
                 <button className='btn'>हिन्दीन्यूज़</button>
                 <button className='btn'>BUSINESS</button>
@@ -29,7 +30,7 @@ const Navbar=()=>{
                 <button className='btn'>HEALTH</button>
                 <button className='btn'>SHOPPING</button>
                 <button className='btn'>ART</button>
-
+                </div>
             </div>
         <nav className='nav'>
         <img className='img1' src='https://logodix.com/logo/2131947.png' alt=''/>
