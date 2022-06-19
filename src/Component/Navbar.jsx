@@ -47,7 +47,7 @@ const Navbar=()=>{
        <Link className='livetv'  to="/photo">PHOTOS</Link>
        <Link className='more'  to="/more">.  .  .</Link>
        <div className='flex'>
-       <FontAwesomeIcon icon={faTwitter} className="icon1"/>
+       <FontAwesomeIcon  icon={faTwitter} className="icon1"></FontAwesomeIcon>
        <FontAwesomeIcon icon={faFacebook} className="icon1"/>
        <FontAwesomeIcon icon={faEarlybirds} className="icon1"/>
        <FontAwesomeIcon icon={faSearchengin}  className="icon1" />
