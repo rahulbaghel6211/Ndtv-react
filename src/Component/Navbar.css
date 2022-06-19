@@ -1,0 +1,148 @@
+.livetv{
+
+    text-decoration: transparent;
+    font-size:16px;
+    font-weight: 500;
+    color: white;
+    margin-top:10px;
+
+}
+.livetv:hover{
+    text-decoration: underline white;
+}
+.nav{
+    /* style={{display:"flex",gap:"2rem", justifyContent:"center"}} */
+  
+ background-color:#3d3d3d;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    height:40px;
+    text-align: center;
+   
+}
+.img1{
+    width:100px;
+    height:20px;
+    margin-top:10px;
+ 
+}
+.more{
+    text-decoration: transparent;
+    font-size:16px;
+    font-weight:1000;
+    color: white;
+    margin-top:7px;
+
+}
+.firstnav{
+    background-color: #3d3d3d;
+    gap:4rem;
+}
+.btn{
+    background-color: transparent;
+    color: white;
+    border: transparent;
+    gap: 2rem;
+    margin-left: 20px;
+    font-size: 10px;
+}
+.flex{
+    display: flex;
+    gap: 1.5rem;
+}
+.icon1{
+    height:25px;
+    width: 25px;
+    color: white;
+    margin-top: 5px;
+}
+.footer{
+    display: flex;
+    
+}
+.palcerhoder{
+    margin-top: 20px;
+}
+.third{
+    display: flex;
+    gap:2rem;
+    margin-left:50px;
+    
+}
+.line{
+    border: 1px solid gray;
+    margin-left:50px;
+}
+.ndtvg{
+    background-color: #3d3d3d;
+    color: white;
+    border:1px solid #3d3d3d;
+    width: 150px;
+    margin-left: 50px;
+}
+.fitth{
+    display: flex;
+    margin-left: 200px;
+
+}
+.fourth{
+    display: flex;
+    gap: 2rem;
+}
+.high{
+    border:0.1px solid #3d3d3d;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 10px;
+}
+.alldata{
+    width:800px;
+    margin: auto;
+}
+/* .imag10{
+    height: 200px;
+    width: 400px;
+} */
+.text{
+    font-size:30px;
+    font-weight:bold;
+}
+.big{
+    height:400px;
+    width:400px;
+    margin-right:80px;
+}
+.box{
+    display: flex;
+}
+.latest{
+   
+    height:800px;
+    width:400px;
+   
+}
+.latest1{
+    display: flex;
+    margin-top:20px;
+}
+.viedo{
+    
+    display: flex;
+    gap: 10rem;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.photos{
+    display: flex;
+    
+}
+.img11{
+    width:400px;
+    height: 400px;
+    margin-left:80px;
+}
+.ent{
+    margin-left: 100px;
+}
